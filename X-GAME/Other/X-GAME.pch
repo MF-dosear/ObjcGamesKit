@@ -1,0 +1,68 @@
+//
+//  X-GAME.pch
+//  X-GAME
+//
+//  Created by dosear on 2021/7/7.
+//
+
+#ifndef X_GAME_pch
+#define X_GAME_pch
+
+#if __OBJC__
+
+#import <X_SDK/X_SDK.h>
+
+#endif
+
+#endif /* X_GAME_pch */
+
+
+/**
+ 
+ 游戏名：遗迹大冒险
+
+ 游戏ID：1000784
+
+ 登录密钥：5d674056b8bb1906f5926639b33d6065
+
+ 支付密钥：fda1fd090526ee89958ef706c641ce67
+
+
+
+ 一键登录
+
+ APPID：
+
+ 87af75cd9fb8b499fe300eef51e6834e
+
+ APPKEY：
+
+ 82846b68a9acdd9c918923b98fc63425
+
+
+
+ 包名：com.trace.vetu
+
+ appleid:1596895181
+
+
+
+ 微信
+
+ AppID: wx775e8bdb803e24cd
+
+ AppSecret: f6af4d8e6b5661d344c368a367e2bddf
+
+
+
+ QQ
+
+ APP ID：1112068439
+
+ APP Key：kzHypSQxkzb102OB
+
+ 测试链接：https://xundaocdn.xmw520.com/stoneage_ztt_testInfo_debug/index_https.html?os=ios&pf=xmwiosyjdmx&td_channelid=xmwiosyjdmx
+
+ 测试回调：https://xundao.xmw520.com/stone_test/callbk.php?qd_type=xmwiosyjdmx
+ 
+ **/

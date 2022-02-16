@@ -1,0 +1,6 @@
+framework module X_SDK {
+  umbrella header "X_SDK.h"
+
+  export *
+  module * { export * }
+}
