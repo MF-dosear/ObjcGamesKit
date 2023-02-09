@@ -26,15 +26,11 @@
 
 * 将sdk添加到xcode工程
 
-![1644918508405](assets/1644918508405.jpg)
+![1644918508405](https://user-images.githubusercontent.com/20237339/217759945-eff7667c-87bd-4928-8ae1-54bc2cd888a1.jpg)
+
 
 * 修改SDK配置
-
-![1644917463108](assets/1644917463108.jpg)
-
-* Build Settings 下搜索 Other Linker Flags，添加 -ObjC
-![1644918727771](assets/1644918727771.jpg)
-
+![1644917463108](https://user-images.githubusercontent.com/20237339/217760019-a675f222-affd-4c24-81d4-b36965b072bb.jpg)
 
 
 ### 4、添加对接代码
