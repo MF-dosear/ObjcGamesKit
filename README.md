@@ -6,7 +6,7 @@
 ## SDK介绍：http://www.dosear.cn/sdk/sdk_function.html
 ## 过审手游：http://www.dosear.cn/api/web/auditeds
 
-##对接示例
+## 对接示例
 
 ### 1、资源下载
 
@@ -19,7 +19,7 @@
   * 其他为demo文件
   * 点击 'X-GAME.xcworkspace' 打开工程测试
 
-  ![1644917983620](assets/1644917983620.jpg)
+![1644917983620](https://user-images.githubusercontent.com/20237339/217759668-5842a3ca-4cc2-4280-bd98-0ce100e4d334.jpg)
 
   
 ### 3、SDK导入
