@@ -5,6 +5,9 @@
 ## SDK对接文档地址：http://www.dosear.cn/sdk/sdk_mark.html
 ## SDK介绍：http://www.dosear.cn/sdk/sdk_function.html
 ## 过审手游：http://www.dosear.cn/api/web/auditeds
+## Objective-C SDK: https://github.com/MF-dosear/X-Demo
+## Swift SDK: https://github.com/MF-dosear/NGK
+## Flutter SDK: https://github.com/MF-dosear/unit
 
 ## 对接示例
 
