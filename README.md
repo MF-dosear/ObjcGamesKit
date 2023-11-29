@@ -1,42 +1,45 @@
+# ObjcGamesKit
 
+[![CI Status](https://img.shields.io/travis/564057354@qq.com/ObjcGamesKit.svg?style=flat)](https://travis-ci.org/564057354@qq.com/ObjcGamesKit)
+[![Version](https://img.shields.io/cocoapods/v/ObjcGamesKit.svg?style=flat)](https://cocoapods.org/pods/ObjcGamesKit)
+[![License](https://img.shields.io/cocoapods/l/ObjcGamesKit.svg?style=flat)](https://cocoapods.org/pods/ObjcGamesKit)
+[![Platform](https://img.shields.io/cocoapods/p/ObjcGamesKit.svg?style=flat)](https://cocoapods.org/pods/ObjcGamesKit)
 
+## Example
 
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+ObjcGamesKit is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'ObjcGamesKit'
+```
+
+## Author
+
+罗小黑不吹, dosear@qq.com
 
 ## SDK对接文档地址：http://www.dosear.cn/sdk/sdk_mark.html
 ## SDK介绍：http://www.dosear.cn/sdk/sdk_function.html
 ## 过审手游：http://www.dosear.cn/api/web/auditeds
-## Objective-C SDK: https://github.com/MF-dosear/X-Demo
-## Swift SDK: https://github.com/MF-dosear/NGK
-## Flutter SDK: https://github.com/MF-dosear/unit
+## Objective-C SDK: https://github.com/MF-dosear/ObjcGamesKit
+## Swift SDK: https://github.com/MF-dosear/FlutterGamesKit
+## Flutter SDK: https://github.com/MF-dosear/XYGamesKit
 
 ## 对接示例
 
 ### 1、资源下载
 
-* Git：https://github.com/MF-dosear/X-Demo.git
+```ruby
+pod 'ObjcGamesKit'
+```
 
-### 2、资源文件
-
-* sdk_demo 是sdk demo示例
-  * X_SDK.framework 为游戏SDK
-  * 其他为demo文件
-  * 点击 'X-GAME.xcworkspace' 打开工程测试
-
-![1644917983620](https://user-images.githubusercontent.com/20237339/217759668-5842a3ca-4cc2-4280-bd98-0ce100e4d334.jpg)
-
-  
-### 3、SDK导入
-
-* 将sdk添加到xcode工程
-
-![1644918508405](https://user-images.githubusercontent.com/20237339/217759945-eff7667c-87bd-4928-8ae1-54bc2cd888a1.jpg)
-
-
-* 修改SDK配置
-![1644917463108](https://user-images.githubusercontent.com/20237339/217760019-a675f222-affd-4c24-81d4-b36965b072bb.jpg)
-
-
-### 4、添加对接代码
+### 2、添加对接代码
 
 * 头文件导入 ‘#import <X_SDK/X_SDK.h>’
 
@@ -238,3 +241,7 @@
 + (void)sdk_shareWithMode:(XGShareMode)mode data:(NSData *)data;
 
 ```
+
+## License
+
+ObjcGamesKit is available under the MIT license. See the LICENSE file for more info.

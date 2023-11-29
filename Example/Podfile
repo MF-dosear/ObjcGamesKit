@@ -1,0 +1,10 @@
+source 'https://github.com/Cocoapods/Specs.git'
+
+platform :ios, '12.0'
+use_frameworks!
+
+target 'X-GAME' do
+  pod 'ObjcGamesKit', :path => '../'
+  
+  
+end

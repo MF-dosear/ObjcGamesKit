@@ -1,0 +1,16 @@
+PODS:
+  - ObjcGamesKit (1.0.0)
+
+DEPENDENCIES:
+  - ObjcGamesKit (from `../`)
+
+EXTERNAL SOURCES:
+  ObjcGamesKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ObjcGamesKit: 13f7fa7ebb8635c15e32f6cab6ebd3da4501cb70
+
+PODFILE CHECKSUM: aec8055fe0f73ad26987fae45800fae13f710799
+
+COCOAPODS: 1.14.3
