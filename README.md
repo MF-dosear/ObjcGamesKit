@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/ObjcGamesKit.svg?style=flat)](https://cocoapods.org/pods/ObjcGamesKit)
 [![Platform](https://img.shields.io/cocoapods/p/ObjcGamesKit.svg?style=flat)](https://cocoapods.org/pods/ObjcGamesKit)
 
+## 提示：当前服务器异常，SDK仅供参考
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
