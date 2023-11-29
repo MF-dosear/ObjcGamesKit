@@ -28,8 +28,8 @@ pod 'ObjcGamesKit'
 ## SDK介绍：http://www.dosear.cn/sdk/sdk_function.html
 ## 过审手游：http://www.dosear.cn/api/web/auditeds
 ## Objective-C SDK: https://github.com/MF-dosear/ObjcGamesKit
-## Swift SDK: https://github.com/MF-dosear/FlutterGamesKit
-## Flutter SDK: https://github.com/MF-dosear/XYGamesKit
+## Swift SDK: https://github.com/MF-dosear/XYGamesKit
+## Flutter SDK: https://github.com/MF-dosear/FlutterGamesKit
 
 ## 对接示例
 
